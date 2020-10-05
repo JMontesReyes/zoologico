@@ -1,0 +1,48 @@
+/* Header*/
+.jumbotron{
+    background: #000000 url("llama.jpg");
+    height: 100ch;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+.jumbotro{
+    background: #000000 url("llamaCorta.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#botflat{
+    background: #273c75;
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 0px 3px 0px #192a56;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#qwerty{
+    background: #2f3640;
+}
+
+#derebot{
+    color: ghostwhite;
+}
+
+#contacto{
+    color: ghostwhite;
+}
+
+
+
+
+/* fuentes
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Rubik', sans-serif; */
